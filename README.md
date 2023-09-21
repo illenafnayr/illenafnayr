@@ -20,5 +20,5 @@ U| |_  u  \/ _ \/   <|  \| |>    |  _|"   U | | u   U | | u       |_"_|
  )(\\,-   \\    >>   ||   \\,-.  <<   >>    //  \\    //  \\  .-,_|___|_,-. 
 (__)(_/  (__)  (__)  (_")  (_/  (__) (__)  (_")("_)  (_")("_)  \_)-' '-(_/  
 
-## Software Engineer. Chicken Enthusiast. Studio Fanelli
+## Software Engineer. Chicken Enthusiast. Studio Fanelli.
 ```
